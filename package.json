@@ -4,7 +4,7 @@
   "main": "build/index.html",
   "license": "MIT",
   "scripts": {
-    "build": "parcel build index.html --no-source-maps"
+    "build": "parcel build index.html --no-source-maps --public-url https://niggelgame.github.io/danboard/"
   },
   "devDependencies": {
     "cssnano": "^5.0.7",
