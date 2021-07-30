@@ -1,0 +1,1 @@
+parcel build index.html --no-source-maps
